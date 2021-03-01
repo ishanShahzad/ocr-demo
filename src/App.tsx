@@ -50,7 +50,7 @@ class App extends React.Component<RouteComponentProps, StateType> {
       <div>
         <Header
           as="h1"
-          content="tesseract.js in browser"
+          content="OCR RENESIS DEMO"
           style={style.h1}
           textAlign="center"
         />
