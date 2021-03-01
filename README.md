@@ -1,5 +1,4 @@
-# Showcase with tesseract-ocr
-
+# web based ocr text extraction from images
 ## Getting started
 
 ```
